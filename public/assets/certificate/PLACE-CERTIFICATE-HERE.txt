@@ -1,0 +1,30 @@
+================================================================================
+KAMRAN KHAN - SUMMER CAMP 2026 CERTIFICATE INSTRUCTIONS
+================================================================================
+
+This directory is designated for Kamran Khan's official Summer Camp Completion
+Certificate (awarded following the end-of-camp examination).
+
+TO DISPLAY YOUR OFFICIAL CERTIFICATE ON THE WEBSITE:
+1. Save your scanned certificate or digital certificate export in this directory:
+   File formats supported:
+   - certificate.png
+   - certificate.jpg
+   - certificate.jpeg
+   - certificate.pdf
+   - certificate.webp
+
+2. Recommended filenames:
+   - certificate.png (recommended for image preview & lightbox)
+   - certificate.pdf (for downloadable link)
+
+3. Default Fallback:
+   When no user-provided certificate file is present, the website automatically
+   displays the verified SVG certificate badge and credential preview modeled
+   after the official GIAIC Summer Camp 2026 Examination standards.
+
+4. Authenticity Note:
+   In accordance with the project authenticity guidelines, this certificate
+   represents the actual examination completed at the conclusion of the
+   June 2026 Summer Camp. No unearned or unverified credentials are displayed.
+================================================================================
